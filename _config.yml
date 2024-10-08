@@ -324,18 +324,7 @@ defaults:
       share: true
       related: true
       
-# Navigation links
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "Contact"
-    url: "/contact/"
+
     
 # Custom styling
 custom_css: "/assets/css/custom.css"
